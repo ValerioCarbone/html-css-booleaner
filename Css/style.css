@@ -5,6 +5,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .header__logo {
-    background-image: url(./img/pattern.png);
+    background-image: url(/img/pattern.png);
+    background-repeat: repeat;
 }
